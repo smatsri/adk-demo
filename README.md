@@ -1,6 +1,6 @@
-# Project Name
+# ADK demo
 
-This project is built using the Agent Development Kit (ADK).
+This project, named **ADK demo**, is built using the Agent Development Kit (ADK).
 
 ## Installation
 
